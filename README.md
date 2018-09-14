@@ -1,0 +1,1 @@
+Sample analyzer created with FSharp.Analyzer.SDK.
